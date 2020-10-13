@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/happy.svg" alt="Happy" />
+  <img src=".github/happy.png" alt="Happy" />
 </p>
 
 <p align="center">
