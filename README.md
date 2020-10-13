@@ -5,9 +5,8 @@
 <p align="center">
   <b>Levando felicidade para o mundo.</b>
 </p>
-<p align="center">
-  > Status do Projeto: Em desenvolvimento :warning:
-</p>
+
+> Status do Projeto: Em desenvolvimento :warning:
 
 ## :page_facing_up: Sobre
 Happy é uma aplicação Web e Mobile que fornece informações de orfanatos próximos de sua residência e com isso tendo a possibilidade de ir até o local distribuir felicidade para crianças.
@@ -15,9 +14,11 @@ Happy é uma aplicação Web e Mobile que fornece informações de orfanatos pr�
 ## :mortar_board:	Projeto
 Projeto desenvolvido durante a [Next Week Level](https://nextlevelweek.com/inscricao/3) que é fornecida pela [Rocketseat](https://github.com/Rocketseat) durante os dia 12 à 18 de Outubro de 2020.
 
+
 ## :grey_exclamation: Pré-requisitos
 - [Node.js](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/) ou [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable)
+
 
 ## :construction_worker: Como usar
 ### Front-End
@@ -27,6 +28,7 @@ Projeto desenvolvido durante a [Next Week Level](https://nextlevelweek.com/inscr
 - Executando aplicação `yarn start` ou `npm start`
 
 Visualização do projeto estará disponível em: http://localhost:3000
+
 
 ## :link: Layout
 Caso deseja visualizar o layout do projeto é só clicar no desejado:
@@ -40,6 +42,7 @@ Esse projeto foi desenvolvido utilizando essas tecnologias
 - [Node.js](https://nodejs.org/en/docs/)
 - [Typescript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
+
 
 ## :memo: License
 Projeto sob a licença MIT. Caso deseja visualizar o arquivo [LICENSE](https://github.com/SrWess/Happy-NLW/blob/main/LICENSE) para mais detalhes
