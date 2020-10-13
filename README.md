@@ -5,8 +5,9 @@
 <p align="center">
   <b>Levando felicidade para o mundo.</b>
 </p>
-
-> Status do Projeto: Em desenvolvimento :warning:
+<p align="center">
+  > Status do Projeto: Em desenvolvimento :warning:
+</p>
 
 ## :page_facing_up: Sobre
 Happy é uma aplicação Web e Mobile que fornece informações de orfanatos próximos de sua residência e com isso tendo a possibilidade de ir até o local distribuir felicidade para crianças.
