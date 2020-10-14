@@ -22,7 +22,7 @@ Projeto desenvolvido durante a [Next Week Level](https://nextlevelweek.com/inscr
 
 ## :construction_worker: Como usar
 ### Front-End
-- Faça o clone desse repositório `link repo`
+- Faça o clone desse repositório `git clone https://github.com/SrWess/Happy-NLW.git`
 - Acesse a pasta `cd web`
 - Instale as dependências `yarn install` ou `npm install`
 - Executando aplicação `yarn start` ou `npm start`
